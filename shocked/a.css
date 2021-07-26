@@ -1,0 +1,83 @@
+.circle{
+    height:450px;
+    width:450px;
+    background-color: #fff293;
+  background-image: linear-gradient(315deg, #fff293 0%, #ffe884 74%);
+    border-radius:50%;
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate( 50%,-50%);
+  }
+  .E1{
+    background-color:#665200;
+    width:50px;
+    height:80px;
+    border-radius:50%;
+    position:absolute;
+    top: 40%;
+    right: 55%;
+    transform: translate(-60%,-140%);
+  }
+  .E2{
+    background-color:#665200;
+    width:50px;
+    height:80px;
+    border-radius:50%;
+    position:absolute;
+    top: 40%;
+    right: 45%;
+    transform: translate(160%,-140%);
+  }
+  .smilecurve{
+  position: absolute;
+     background: brown;
+     border-radius: 50%;
+     height: 150px;
+     width: 220px;
+     left: 60%;
+    bottom:10%;
+     margin: -150px 0px 0px -150px;
+  }
+  .teeth{
+  position: absolute;
+     background: white;
+     border-radius: 47%;
+     height: 80px;
+     width: 150px;
+     left: 83%;
+    top:100%;
+    bottom:10%;
+     margin: -150px 0px 0px -150px;
+  }
+  .tongue{
+    position: absolute;
+     background: pink;
+     border-radius: 90%;
+     height: 40px;
+     width: 150px;
+     left: 83%;
+    bottom:0%;
+     margin: -150px 0px 0px -150px;
+  }
+  .eyebrow1{
+     width: 70px; 
+    height: 100px;  
+    position:absolute;
+    left:23.5%;
+    bottom:65%;
+    border: solid 5px #000;
+    border-color: #964B00 transparent transparent transparent;
+    border-radius: 50%/100px 100px 0 0;
+  }
+  .eyebrow2{
+     width: 70px; 
+    height: 100px;  
+    position:absolute;
+    left:58%;
+    bottom:65%;
+    border: solid 5px #964B00;
+    border-color: #964B00 transparent transparent transparent;
+    border-radius: 50%/100px 100px 0 0;
+  }
+  

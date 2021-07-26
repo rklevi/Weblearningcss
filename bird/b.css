@@ -1,0 +1,54 @@
+.circle {
+    height:450px;
+  width:450px;
+ background-color: #fffffc;
+background-image: linear-gradient(315deg, #fffffc -50%, #beb7a4 80%);
+  border-radius:50% 50% 50% 47% / 60% 60% 10% 10%;
+  position: absolute;
+  top: 50%;
+  right: 50%;
+  transform: translate( 50%,-50%);
+    }
+.E1{
+background-color: #000000;
+background-image: linear-gradient(147deg, #000000 0%, #04619f 74%);
+  width:30px;
+  height:60px;
+  border-radius: 50%;
+  position:absolute;
+  top: 45%;
+  right: 87%;
+   transform: translate(-56%,-150%) rotate(28deg) ;
+}
+.E2{
+  background-color: #000000;
+background-image: linear-gradient(147deg, #000000 0%, #04619f 74%);
+  width:50px;
+  height:50px;
+  border-radius:50%;
+  position:absolute;
+  top: 42%;
+  right: 50%;
+  transform: translate(160%,-140%);
+}
+.noseline{
+   width: 197px; 
+  height: -80px;  
+  position:absolute;
+  left:-2%;
+  bottom:40%;
+  border: solid 5px brown;
+  border-color: brown transparent transparent transparent;
+  border-radius: 50%;
+}
+.nose {
+  width: 200px;
+  height: 140px;
+  margin-top:180px;
+  margin-left:-320px;
+ background-color: #fbb034;
+background-image: linear-gradient(315deg, #fbb034 0%, #ffdd00 74%);
+ border-radius: 100% 0% 0 100% / 50% 50% 60px 50px;
+  border: 2px solid black;
+  transform: translate(140%,-18%) rotate(320deg);
+}
